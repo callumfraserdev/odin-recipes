@@ -2,4 +2,4 @@ This project is a practice of the HTML concepts I’ve learned so far. I built a
 
 Going to update this later with CSS and maybe JS. 
 
-Just a small update to this filess
+Just a small update to this files.
